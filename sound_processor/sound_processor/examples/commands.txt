@@ -1,0 +1,6 @@
+./build/sound_processor -o sin.wav -f generator sin 440 2000
+./build/sound_processor -o sin_ampl.wav -f generator sin 440 2000 -f ampl 0.8
+./build/sound_processor -i sin.wav -o stretched.wav -f timestretch 2
+./build/sound_processor -i sin.wav -o normalized.wav -f normalize 0.9
+./build/sound_processor -i sin.wav -o lowpass.wav -f lowpass 5
+./build/sound_processor -i sin.wav -o silence.wav -f silence ms 500 1000

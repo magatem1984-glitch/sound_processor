@@ -1,0 +1,18 @@
+Start testing: Jun 24 05:35 MSK
+----------------------------------------------------------
+1/1 Testing: sound_processor_tests
+1/1 Test: sound_processor_tests
+Command: "/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/sound_processor_tests"
+Directory: /home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build
+"sound_processor_tests" start time: Jun 24 05:35 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"sound_processor_tests" end time: Jun 24 05:35 MSK
+"sound_processor_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 24 05:35 MSK

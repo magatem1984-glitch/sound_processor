@@ -1,0 +1,6 @@
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/sound_processor_core.dir
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/sound_processor.dir
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/sound_processor_tests.dir
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/test.dir
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/edit_cache.dir
+/home/comp_master_06/se258-Magomed-Temirhanov-mazatemirkhanov/tasks/sound_processor/sound_processor/build/CMakeFiles/rebuild_cache.dir
